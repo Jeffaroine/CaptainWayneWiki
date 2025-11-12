@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Sea Gardens 3D Filled';
+    src: url('SeaGardens3DFilled-Regular.woff2') format('woff2'),
+        url('SeaGardens3DFilled-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sea Gardens 3D';
+    src: url('SeaGardens3D-Regular.woff2') format('woff2'),
+        url('SeaGardens3D-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sea Gardens 3D';
+    src: url('SeaGardens3D-Italic.woff2') format('woff2'),
+        url('SeaGardens3D-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sea Gardens';
+    src: url('SeaGardens-Italic.woff2') format('woff2'),
+        url('SeaGardens-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sea Gardens 3D Filled';
+    src: url('SeaGardens3DFilled-Italic.woff2') format('woff2'),
+        url('SeaGardens3DFilled-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sea Gardens';
+    src: url('SeaGardens-Regular.woff2') format('woff2'),
+        url('SeaGardens-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
